@@ -18,7 +18,7 @@ _start:                     ;tell linker entry point
  ```
 # Exercice 1
 Write a program that increments a value.
-```
+```asm
 section .data
 nb: db "0"
 msg: db "Saisir une valeur : "
